@@ -4,7 +4,7 @@
 # Created two buttons
 #   Button 'A' Get moisture/temp/humidity and display on OLED
 #              If moisture < 50% turn on pump for 3 seconds
-#   Button 'B' Turn on pump will 'B' is pressed (held down)
+#   Button 'B' Turn on pump while button 'B' is held down
 #
 #   11/20/2022  Michael Gluck  micglu@gmail.com
 
